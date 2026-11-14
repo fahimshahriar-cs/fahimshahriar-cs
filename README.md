@@ -1,4 +1,4 @@
-![DailyDone lavender animated banner](https://raw.githubusercontent.com/fahimshahriar-cs/fahimshahriar-cs/refs/heads/main/DailyDone-lavender-banner.gif)
+
 
 <div align="center">
 
@@ -36,6 +36,7 @@ I’m an aspiring developer focused on building a strong foundation in programmi
 
 A simple, offline-ready task manager for Android, built to help people organize everyday tasks and track their progress. This is an early personal project and is shared as a direct APK download.
 
+![DailyDone lavender animated banner](https://raw.githubusercontent.com/fahimshahriar-cs/fahimshahriar-cs/refs/heads/main/DailyDone-lavender-banner.gif)
 <div align="center">
 
 <a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><strong>⬇️ Download DailyDone for Android</strong></a> · <a href="https://github.com/fahimshahriar-cs/DailyDone">View the project</a>
