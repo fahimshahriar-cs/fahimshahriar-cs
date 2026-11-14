@@ -1,4 +1,4 @@
-[![DailyDone — click to download the APK](./DailyDone-lavender-banner.gif)](https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk)
+![DailyDone lavender animated banner](https://raw.githubusercontent.com/fahimshahriar-cs/fahimshahriar-cs/refs/heads/main/DailyDone-lavender-banner.gif)
 
 <div align="center">
 
