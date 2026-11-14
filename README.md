@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><img src="https://raw.githubusercontent.com/fahimshahriar-cs/fahimshahriar-cs/refs/heads/main/profile-banner.svg" alt="Animated Fahim Shahriar and ExploByte network lab banner — click to download DailyDone APK"></a>
+<a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><img src="https://raw.githubusercontent.com/fahimshahriar-cs/fahimshahriar-cs/refs/heads/main/profile-banner.svg?refresh=exploybyte-v2" alt="Animated Fahim Shahriar and ExploByte network lab banner — click to download DailyDone APK"></a>
 
 ### Computer Science student · App builder · Web design enthusiast
 
