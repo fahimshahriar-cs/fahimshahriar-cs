@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><img src="https://raw.githubusercontent.com/fahimshahriar-cs/fahimshahriar-cs/refs/heads/main/profile-banner.svg" alt="Animated lavender banner for Fahim Shahriar"></a>
+<a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><img src="https://raw.githubusercontent.com/fahimshahriar-cs/fahimshahriar-cs/refs/heads/main/profile-banner.svg" alt="Animated Fahim Shahriar and ExploByte network lab banner — click to download DailyDone APK"></a>
 
 ### Computer Science student · App builder · Web design enthusiast
 
@@ -22,17 +22,17 @@ I’m an aspiring developer who enjoys turning ideas into useful apps and clean,
 - 🌱 Learning by building, practicing fundamentals, and sharing progress
 - 📍 Bangladesh
 
-## 🧪 CORE LAB
+## 🧬 ExploByte
+
+**ExploByte is my personal network lab for ideas, experiments, and projects in progress.**
 
 <div align="center">
 
-| IDEA | BUILD | LEARN | REPEAT |
-|:---:|:---:|:---:|:---:|
-| 💡 Explore a concept | 🛠️ Make a small project | 📚 Improve the fundamentals | ✨ Keep iterating |
+🟣 **IDEA** &nbsp; → &nbsp; 🔵 **PROTOTYPE** &nbsp; → &nbsp; 🟢 **LEARN** &nbsp; → &nbsp; 🟠 **ITERATE**
 
 </div>
 
-A small corner for experiments, coursework, and projects in progress. My toolkit reflects what I use, study, and explore as I grow.
+The animated network panel above is built as SVG code: signal pulses move between nodes while the ExploByte label and status lines animate. It reflects how I like to work: explore a concept, build something small, learn from it, and improve it.
 
 ## 💻 Languages & web
 
@@ -51,10 +51,10 @@ A small corner for experiments, coursework, and projects in progress. My toolkit
 ### 📱 DailyDone — my first app
 
 A simple, offline-ready task manager for Android, built to help people organize everyday tasks and track their progress. It’s an early personal project and is shared as a direct APK download.
-![DailyDone lavender animated banner](https://raw.githubusercontent.com/fahimshahriar-cs/fahimshahriar-cs/refs/heads/main/DailyDone-lavender-banner.gif)
+
 <div align="center">
 
-<a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><img src="https://img.shields.io/badge/⬇%20Download-DailyDone%20APK-8B6CEB?style=for-the-badge&logo=android&logoColor=white" alt="Click to download DailyDone APK"></a>
+<a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><img src="https://img.shields.io/badge/⬇%20Download-DailyDone%20APK-8B6CEB?style=for-the-badge&logo=android&logoColor=white" alt="Download DailyDone APK"></a>
 
 [⬇️ Download the Android APK](https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk) · [View DailyDone on GitHub](https://github.com/fahimshahriar-cs/DailyDone)
 
