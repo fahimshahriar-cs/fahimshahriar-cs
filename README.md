@@ -50,6 +50,13 @@ The animated network panel above is built as SVG code: signal pulses move betwee
 
 ### 📱 DailyDone — my first app
 
+<div align="center">
+
+<a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><img src="https://raw.githubusercontent.com/fahimshahriar-cs/fahimshahriar-cs/refs/heads/main/DailyDone-poster.svg" alt="Animated DailyDone app poster — click to download the APK"></a>
+
+</div>
+
+
 A simple, offline-ready task manager for Android, built to help people organize everyday tasks and track their progress. It’s an early personal project and is shared as a direct APK download.
 
 <div align="center">
