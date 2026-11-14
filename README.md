@@ -48,7 +48,7 @@ The animated network panel above is built as SVG code: signal pulses move betwee
 
 ## ✦ Featured project
 
-### 📱 DailyDone — my first app
+### 📱 DailyDone
 
 <div align="center">
 
