@@ -14,7 +14,7 @@
 
 ## ✦ About me
 
-I’m Fahim Shahriar, an aspiring developer who enjoys turning ideas into useful apps and clean, easy-to-use websites. I’m building my foundations in programming and software development through coursework and hands-on projects. **DailyDone is my first app project.**
+I’m **Fahim Shahriar**, an aspiring developer who enjoys turning ideas into useful apps and clean, easy-to-use websites. I’m building my foundations in programming and software development through coursework and hands-on projects.
 
 - 🎓 Computer Science student at **BRAC University**
 - 📱 Interested in **app creation** and practical mobile experiences
