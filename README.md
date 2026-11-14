@@ -1,6 +1,6 @@
-<div align="center">
+[![DailyDone — click to download the APK](./DailyDone-lavender-banner.gif)](https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk)
 
-<a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><img src="./DailyDone-lavender-banner.gif" alt="DailyDone — click to download the APK" width="100%"></a>
+<div align="center">
 
 # Fahim Shahriar
 
