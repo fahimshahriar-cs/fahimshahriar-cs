@@ -1,59 +1,78 @@
-
-
 <div align="center">
 
-# Fahim Shahriar
+<a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><img src="https://raw.githubusercontent.com/fahimshahriar-cs/fahimshahriar-cs/refs/heads/main/profile-banner.svg" alt="Animated lavender banner for Fahim Shahriar"></a>
 
-### CS Student @ BRAC University · Aspiring Software Developer
+### Computer Science student · App builder · Web design enthusiast
 
-Learning by building, practicing the fundamentals, and sharing progress along the way.
+**Studying Computer Science at BRAC University**
 
-<a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><img src="https://img.shields.io/badge/⬇%20Download-DailyDone%20APK-8B6CEB?style=for-the-badge&logo=android&logoColor=white" alt="Download DailyDone APK"></a>
-
-![Java](https://img.shields.io/badge/Java-Learning-8B6CEB?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Learning-A78BFA?style=flat-square&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-Learning-C4B5FD?style=flat-square&logo=html5&logoColor=white)
-![Web Development](https://img.shields.io/badge/Web%20Design-Learning-7C3AED?style=flat-square&logo=css3&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data%20Structures-Practicing-6D5ACF?style=flat-square)
+[⬇️ Download DailyDone APK](https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk) · [Explore the project](https://github.com/fahimshahriar-cs/DailyDone)
 
 </div>
 
 ---
 
-## ✦ About
+## ✦ About me
 
-I’m an aspiring developer focused on building a strong foundation in programming and software development. I’m studying **Computer Science at BRAC University** and enjoy turning ideas into useful apps and clean, easy-to-use websites. I value thoughtful problem-solving, steady progress, and learning through practical work.
+I’m an aspiring developer who enjoys turning ideas into useful apps and clean, easy-to-use websites. I’m building my foundations in programming and software development through coursework and hands-on projects. **DailyDone is my first app project.**
 
-- 🎓 Studying **Computer Science at BRAC University**
-- 🌱 Learning **Java**, **Python**, **HTML**, and the fundamentals of app development
-- 🎨 Interested in **app creation**, **website design**, and thoughtful user experiences
-- 🔎 Interested in **open source** and how software is built collaboratively
-- 📍 Based in **Bangladesh**
+- 🎓 Computer Science student at **BRAC University**
+- 📱 Interested in **app creation** and practical mobile experiences
+- 🌐 Interested in **website design** and front-end development
+- 🌱 Learning by building, practicing fundamentals, and sharing progress
+- 📍 Bangladesh
 
-## ✦ Featured Project
+## 🧪 CORE LAB
+
+<div align="center">
+
+| IDEA | BUILD | LEARN | REPEAT |
+|:---:|:---:|:---:|:---:|
+| 💡 Explore a concept | 🛠️ Make a small project | 📚 Improve the fundamentals | ✨ Keep iterating |
+
+</div>
+
+A small corner for experiments, coursework, and projects in progress. My toolkit reflects what I use, study, and explore as I grow.
+
+## 💻 Languages & web
+
+![Java](https://img.shields.io/badge/Java-8B6CEB?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-A78BFA?style=for-the-badge&logo=python&logoColor=white) ![C](https://img.shields.io/badge/C-7C3AED?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-9B7CF5?style=for-the-badge&logo=cplusplus&logoColor=white) ![HTML](https://img.shields.io/badge/HTML5-C4B5FD?style=for-the-badge&logo=html5&logoColor=28223A) ![PHP](https://img.shields.io/badge/PHP-B69AFF?style=for-the-badge&logo=php&logoColor=28223A)
+
+## 🖥️ Systems I use and explore
+
+![Windows](https://img.shields.io/badge/Windows-7C3AED?style=flat-square&logo=windows&logoColor=white) ![Android](https://img.shields.io/badge/Android-A78BFA?style=flat-square&logo=android&logoColor=white) ![iOS](https://img.shields.io/badge/iOS-8B6CEB?style=flat-square&logo=apple&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-C4B5FD?style=flat-square&logo=linux&logoColor=28223A)
+
+## 🎨 Creative tools
+
+![Photoshop](https://img.shields.io/badge/Photoshop-7C3AED?style=flat-square&logo=adobephotoshop&logoColor=white) ![Illustrator](https://img.shields.io/badge/Illustrator-9B7CF5?style=flat-square&logo=adobeillustrator&logoColor=white) ![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-8B6CEB?style=flat-square&logo=adobepremierepro&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-A78BFA?style=flat-square&logo=adobeaftereffects&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-C4B5FD?style=flat-square&logo=canva&logoColor=28223A)
+
+## ✦ Featured project
 
 ### 📱 DailyDone — my first app
 
-A simple, offline-ready task manager for Android, built to help people organize everyday tasks and track their progress. This is an early personal project and is shared as a direct APK download.
+A simple, offline-ready task manager for Android, built to help people organize everyday tasks and track their progress. It’s an early personal project and is shared as a direct APK download.
 
-  ![DailyDone lavender animated banner](https://raw.githubusercontent.com/fahimshahriar-cs/fahimshahriar-cs/refs/heads/main/DailyDone-lavender-banner.gif)
 <div align="center">
 
-<a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><strong>⬇️ Download DailyDone for Android</strong></a> · <a href="https://github.com/fahimshahriar-cs/DailyDone">View the project</a>
+<a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><img src="https://raw.githubusercontent.com/fahimshahriar-cs/fahimshahriar-cs/refs/heads/main/DailyDone-lavender-banner.gif" alt="Click to download DailyDone APK"></a>
+
+[⬇️ Download the Android APK](https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk) · [View DailyDone on GitHub](https://github.com/fahimshahriar-cs/DailyDone)
 
 </div>
 
-## ✦ Current Focus
+> DailyDone is an early, simple offline app shared as a direct APK download. It is not a release build.
 
-- Strengthening programming fundamentals with **Java** and **Python**
-- Practicing data structures and problem-solving
-- Learning the core tools and concepts behind **web development and app creation**
-- Exploring clean, accessible **website design**
+## 🌱 Current focus
+
+- Strengthening programming fundamentals with Java, Python, C, and C++
+- Practicing problem-solving and data structures
+- Learning more about building apps and designing websites
+- Exploring creative tools for digital design and media
 
 ---
 
 <div align="center">
 
-*Thanks for visiting my profile — I’m learning, building, and improving one step at a time.*
+*Thanks for visiting — learning, building, and improving one project at a time.*
 
 </div>
