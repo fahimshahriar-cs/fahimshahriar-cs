@@ -32,7 +32,7 @@ I’m Fahim Shahriar, an aspiring developer who enjoys turning ideas into useful
 
 </div>
 
-The animated network panel above is built as SVG code: signal pulses move between nodes while the ExploByte label and status lines animate. It reflects how I like to work: explore a concept, build something small, learn from it, and improve it.
+The animated network panel above is a signal pulses move between nodes while the ExploByte label and status lines animate. It reflects how I like to work, explore a concept, build something small, learn from it, and improve it.
 
 ## 💻 Languages & web
 
@@ -72,7 +72,7 @@ A simple, offline-ready task manager for Android, built to help people organize 
 ## 🌱 Current focus
 
 - Strengthening programming fundamentals with Java, Python, C, and C++
-- Practicing problem-solving and data structures
+- Practicing problem solving and data structures
 - Learning more about building apps and designing websites
 - Exploring creative tools for digital design and media
 
