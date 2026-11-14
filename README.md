@@ -51,7 +51,7 @@ A small corner for experiments, coursework, and projects in progress. My toolkit
 ### 📱 DailyDone — my first app
 
 A simple, offline-ready task manager for Android, built to help people organize everyday tasks and track their progress. It’s an early personal project and is shared as a direct APK download.
-
+![DailyDone lavender animated banner](https://raw.githubusercontent.com/fahimshahriar-cs/fahimshahriar-cs/refs/heads/main/DailyDone-lavender-banner.gif)
 <div align="center">
 
 <a href="https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk"><img src="https://img.shields.io/badge/⬇%20Download-DailyDone%20APK-8B6CEB?style=for-the-badge&logo=android&logoColor=white" alt="Click to download DailyDone APK"></a>
