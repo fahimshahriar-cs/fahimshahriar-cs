@@ -6,7 +6,7 @@
 
 **Studying Computer Science at BRAC University**
 
-[Explore the project](https://github.com/fahimshahriar-cs/DailyDone)
+
 
 </div>
 
