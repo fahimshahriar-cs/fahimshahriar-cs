@@ -80,6 +80,6 @@ A simple, offline-ready task manager for Android, built to help people organize 
 
 <div align="center">
 
-*Thanks for visiting — learning, building, and improving one project at a time.*
+*Thanks for visiting ... Learning, building, and improving one project at a time.*
 
 </div>
