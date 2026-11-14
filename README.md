@@ -6,7 +6,7 @@
 
 **Studying Computer Science at BRAC University**
 
-[⬇️ Download DailyDone APK](https://github.com/fahimshahriar-cs/DailyDone/raw/refs/heads/main/dailydone.apk) · [Explore the project](https://github.com/fahimshahriar-cs/DailyDone)
+[Explore the project](https://github.com/fahimshahriar-cs/DailyDone)
 
 </div>
 
